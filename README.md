@@ -1,4 +1,5 @@
 👋 Salut, moi c'est @Picci-s
+
 🔹 💻 Développeur Fullstack (React, Node.js, MongoDB, Express)
 🔹 🚀 En recherche d'une alternance pour continuer à progresser et monter en compétences
 🔹 🎯 Ancien responsable logistique, reconverti dans la tech avec une approche orientée optimisation et pragmatisme
@@ -28,7 +29,7 @@ Si vous êtes une entreprise à la recherche d'un développeur motivé et en pro
 📩 Email : [julienpi77@gmail.com]
 🔗 LinkedIn : www.linkedin.com/in/julien-piccirillo-1a133513b
 
-📂 Portfolio : [Ton Portfolio (bientôt disponible)]
+📂 Portfolio : [(bientôt disponible)]
 
 ⚡ Fun fact
 Après 13 ans en logistique, je me suis reconverti dans le développement web. Je vois beaucoup de similarités entre l’optimisation des flux logistiques et l’optimisation du code et des architectures backend !
