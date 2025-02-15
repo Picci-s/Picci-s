@@ -30,7 +30,7 @@ Exploration des bonnes pratiques en développement fullstack
 📬 Me contacter
 📩 Email : julienpi77@gmail.com
 🔗 LinkedIn : linkedin.com/in/julien-piccirillo-1a133513b
-📂 Portfolio : (bientôt disponible)
+📂 Portfolio : https://julienpiccirillo.dev
 
 ⚡ Un peu plus sur moi
 Après 13 ans en logistique, j’ai trouvé beaucoup de similarités entre l’optimisation des flux logistiques et l’optimisation du code et des architectures backend.
